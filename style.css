@@ -143,6 +143,7 @@ nav ul a:hover {
     #container {
         margin: 0 1rem;
     }
+    #home .
     nav ul a {
         padding: 10px;
     }
@@ -174,6 +175,9 @@ nav ul a:hover {
 @media screen and (max-width: 530px) {
     nav {
         display: block;
+    }
+    home .content {
+        height:50%
     }
     nav .logo {
         display: block;
